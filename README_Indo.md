@@ -159,3 +159,11 @@ File konfigurasi dibuat secara otomatis di direktori tempat perintah dijalankan.
 
 ## 📄 Lisensi
 Proyek ini bersifat open-source dan bebas untuk dimodifikasi atau didistribusikan. Selamat menampar!
+
+---
+
+## ☕ Support Me
+
+If you find this project useful, consider supporting me:
+
+[![Donate via Saweria](https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gvcf9vy7dhk2nkx30j2wr6n5.png)](https://saweria.co/raiinime)
