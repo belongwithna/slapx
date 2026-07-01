@@ -164,6 +164,6 @@ This project is open-source and free to modify or distribute. Enjoy slapping!
 
 ## ☕ Support Me
 
-If you find this script useful, consider supporting me:
+If you find this poject useful, consider supporting me:
 
 [![Donate via Saweria](https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gvcf9vy7dhk2nkx30j2wr6n5.png)](https://saweria.co/raiinime)
